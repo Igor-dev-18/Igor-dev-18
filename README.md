@@ -1,16 +1,20 @@
 ## Olá👋 Eu me chamo Igor Melo 👨‍💻
 
-Formado em Sistemas de Informação, apaixonado por desenvolvimento web, front-end, prototipação e design.
+Formado em Sistemas de Informação, apaixonado por desenvolvimento web, prototipação e design.
+
+<!-- <a href="https://github.com/Igor-dev-18/Igor-dev-18">
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=igor-dev-18&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+</a> -->
 
 ### ⚡ GitHub Stats
-<div>
-<img  height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=igor-dev-18&show_icons=true&theme=monokai">
-<img height="180em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-dev-18&layout=compact&theme=monokai">
+<div style="display:inline-block">
+<img  height="150em" alt="" src="https://github-readme-stats.vercel.app/api?username=igor-dev-18&show_icons=true&theme=monokai">
+<img height="150em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-dev-18&layout=compact&theme=monokai">
 
 </div>
 
 
-### 🚀 Linguagens e tecnologias que eu utilizo no meu dia
+### 🚀 Linguagens e tecnologias que eu venho estudando
 
 <div>
 
@@ -19,6 +23,8 @@ Formado em Sistemas de Informação, apaixonado por desenvolvimento web, front-e
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 
